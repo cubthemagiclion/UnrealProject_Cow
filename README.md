@@ -1,2 +1,1 @@
-# UnrealProject_Cow
-Unreal Project on a cow game
+# 03_BullCowGame
